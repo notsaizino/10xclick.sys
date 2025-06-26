@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10xclick", "10xclick\10xclick.vcxproj", "{96BCB9BB-59AF-5E21-41EE-1D481780F5E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96BCB9BB-59AF-5E21-41EE-1D481780F5E9}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{96BCB9BB-59AF-5E21-41EE-1D481780F5E9}.Debug|ARM64.Build.0 = Debug|ARM64
+		{96BCB9BB-59AF-5E21-41EE-1D481780F5E9}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{96BCB9BB-59AF-5E21-41EE-1D481780F5E9}.Debug|x64.ActiveCfg = Debug|x64
+		{96BCB9BB-59AF-5E21-41EE-1D481780F5E9}.Debug|x64.Build.0 = Debug|x64
+		{96BCB9BB-59AF-5E21-41EE-1D481780F5E9}.Debug|x64.Deploy.0 = Debug|x64
+		{96BCB9BB-59AF-5E21-41EE-1D481780F5E9}.Release|ARM64.ActiveCfg = Release|ARM64
+		{96BCB9BB-59AF-5E21-41EE-1D481780F5E9}.Release|ARM64.Build.0 = Release|ARM64
+		{96BCB9BB-59AF-5E21-41EE-1D481780F5E9}.Release|ARM64.Deploy.0 = Release|ARM64
+		{96BCB9BB-59AF-5E21-41EE-1D481780F5E9}.Release|x64.ActiveCfg = Release|x64
+		{96BCB9BB-59AF-5E21-41EE-1D481780F5E9}.Release|x64.Build.0 = Release|x64
+		{96BCB9BB-59AF-5E21-41EE-1D481780F5E9}.Release|x64.Deploy.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E82D0CE9-C3DC-4A43-9B4F-E6DE1541194F}
+	EndGlobalSection
+EndGlobal
