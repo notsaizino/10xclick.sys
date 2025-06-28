@@ -70,6 +70,7 @@ For `10xclick.sys`, I wanted that control. I wanted to see what would happen whe
 ## 🙏 A Note From the Author
 
 This project was born from obsession, not obligation. I didn't build `10xclick.sys` to solve a business problem — I built it because I *had to know* if I could. Every detail was hand-written: the IRP stack logic, the injected data structs, even the limits to keep the system stable.
+:D
 
 ---
 
